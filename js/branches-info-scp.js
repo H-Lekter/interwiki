@@ -118,4 +118,11 @@ export var scpBranches = {
     id: "836589",
     category: "",
   },
+  id: {
+    name: "Yayasan SCP",
+    head: "Pengamanan, Penanganan, Perlindungan",
+    url: "http://scp-id.wikidot.com/",
+    id: "4416372",
+    category: "",
+  },
 };
