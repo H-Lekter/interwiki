@@ -119,8 +119,8 @@ export var scpBranches = {
     category: "",
   },
   id: {
-    name: "Yayasan SCP",
-    head: "Pengamanan, Penanganan, Perlindungan",
+    name: "Bahasa Indonesia",
+    head: "Dalam bahasa lain",
     url: "http://scp-id.wikidot.com/",
     id: "4416372",
     category: "",
